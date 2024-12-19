@@ -1,4 +1,4 @@
-# Power and Area Optimization of a 32-bit ALU
+# A Low-Power and Area-Efficient 32-bit ALU Design: A Mixed-Signal Approach
 
 ## Overview
 This project focuses on the design, implementation, and optimization of a 32-bit Arithmetic Logic Unit (ALU) in both digital and analog domains. The primary objectives are power and area optimization, using advanced simulation tools to analyze performance metrics.
